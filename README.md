@@ -1,6 +1,6 @@
 # TestNodeJS
 
-#Test ReactJS EC, Fork this repo and show us your development progress via a Pull Request
+#Test NodeJS EC, Fork this repo and show us your development progress via a Pull Request
 
 ## Run Sequentially
 
